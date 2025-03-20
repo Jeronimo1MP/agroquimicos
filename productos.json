@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+            "nombre": "FoxFarm Big Bloom Liquid Concentrate",
+            "descripcion": "Fertilizante líquido orgánico con guano de murciélago y humus de lombriz.",
+            "precio": 24.00,
+            "imagen": "imagenes/1.webp"
+        },
+        {
+            "nombre": "Dr. Earth Organic Tomato, Vegetable & Herb Fertilizer",
+            "descripcion": "Ideal para vegetales y hierbas, certificado por OMRI.",
+            "precio": 18.00,
+            "imagen": "imagenes/2.webp"
+        },
+        {
+            "nombre": "Neptune's Harvest Fish & Seaweed Fertilizer",
+            "descripcion": "Mezcla orgánica de pescado y algas marinas para un cultivo saludable.",
+            "precio": 13.46,
+            "imagen": "imagenes/3.webp"
+        },
+        {
+            "nombre": "Down to Earth Organic Vegan Fertilizer Mix",
+            "descripcion": "Fertilizante vegano granular ideal para cultivos sustentables.",
+            "precio": 15.00,
+            "imagen": "imagenes/4.webp"
+        },
+        {
+            "nombre": "Maxsea Plant Food 16-16-16",
+            "descripcion": "Fertilizante soluble con algas marinas para todo tipo de plantas.",
+            "precio": 26.50,
+            "imagen": "imagenes/5.webp"
+        },
+        {
+            "nombre": "Miracle-Gro Water Soluble All Purpose Plant Food",
+            "descripcion": "Fórmula soluble para un crecimiento rápido y saludable.",
+            "precio": 10.00,
+            "imagen": "imagenes/6.webp"
+        },
+        {
+            "nombre": "Espoma Organic Bio-Tone Starter Plus",
+            "descripcion": "Fertilizante natural con micorrizas para un enraizamiento efectivo.",
+            "precio": 18.00,
+            "imagen": "imagenes/7.webp"
+        },
+        {
+            "nombre": "Jobes Organics All-Purpose Fertilizer Spikes",
+            "descripcion": "Fertilizante en espigas para una liberación lenta y duradera.",
+            "precio": 12.00,
+            "imagen": "imagenes/8.webp"
+        },
+        {
+            "nombre": "BioAdvanced All-in-One Rose & Flower Care",
+            "descripcion": "Protección y nutrición integral para rosas y flores.",
+            "precio": 20.00,
+            "imagen": "imagenes/9.webp"
+        },
+        {
+            "nombre": "Safer Brand Neem Oil Concentrate",
+            "descripcion": "Aceite de neem concentrado para control de plagas y enfermedades.",
+            "precio": 16.00,
+            "imagen": "imagenes/10.webp"
+        }
+    ]
+}
